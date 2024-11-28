@@ -1,0 +1,11 @@
+instance-type         = "t2.micro"
+tag_name              = "Test_EC2-"
+tag_name_ig           = "Test_IG"
+tag_name_sg           = "Test_SG"
+tag_name_priv_sg      = "Test_Private_SG"
+tag_name_subnets      = "Test_Public_Subnet"
+tag_name_priv_subnets = "Test_Private_Subnet"
+tag_name_rt_public    = "Test_RT_Public Subnet"
+tag_name_rt_private   = "Test_RT_Private Subnet"
+tag_name_vpc          = "Test_VPC"
+
